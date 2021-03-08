@@ -8,7 +8,7 @@ body {
 }
 
 main {
-    background-color: white;
+    background-color: rgba(134, 17, 17, 0.555);
     width: 500px;
     margin: auto;
     padding: 10px;
